@@ -1,7 +1,7 @@
 <?xml version = "1.0"?>
 <Movies>
 	<Movie Rating="R">
-		<Title Runtime="142">
+		<Title Runtime=142>
 			The Shawshank Redemption 
 		</Title>
 		<Genre>
@@ -188,7 +188,7 @@
 			The Matrix
 		</Title>
 		<Genre>
-			Romance
+			Action
 		</Genre>
 		<Director>
 			<Name High-rated-movie="V for Vendetta">
