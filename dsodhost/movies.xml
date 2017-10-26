@@ -1,96 +1,289 @@
 <?xml version = "1.0"?>
 <Movies>
+	<Movie Rating="R">
+		<Title Runtime="142">
+			The Shawshank Redemption 
+		</Title>
+		<Genre>
+			 Crime
+		</Genre>
+		<Director>
+			<Name>
+				<First>
+					 Frank
+				</First>
+				<Last>
+					 Darabont
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+				Columbia Pictures
+		</Studio>
+		<Year>
+			1994
+		</Year>
+	</Movie>
+
+	<Movie Rating="PG-13">
+		<Title>
+			Inception
+		</Title>
+		<Genre>
+			Action
+		</Genre>
+		<Director>
+			<Name High-rated-movie="The Dark Knight">
+				<First>
+					Christopher
+				</First>
+				<Last>
+					Nolan
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			 Warner Bros
+		</Studio>
+		<Year>
+			2010
+		</Year>
+	</Movie>
+
+	<Movie Rating="PG-13">
+		<Title Runtime="152">
+			The Dark Knight
+		</Title>
+		<Genre>
+			Action
+		</Genre>
+		<Director>
+			<Name High-rated-movie="The Dark Knight">
+				<First>
+					Christopher
+				</First>
+				<Last>
+					Nolan
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			 Warner Bros
+		</Studio>
+		<Year>
+			2008
+		</Year>
+	</Movie>
+	
+	
+	<Movie Rating="R">
+		<Title >
+			The Godfather 
+		</Title>
+		<Genre>
+			Drama
+		</Genre>
+		<Director>
+			<Name>
+				<First>
+					 Francis Ford
+				</First>
+				<Last>
+					 Coppola
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			  Paramount Pictures
+		</Studio>
+		<Year>
+			1972
+		</Year>
+	</Movie>
+		
+	
+	<Movie Rating="PG-13">
+		<Title Runtime="142">
+			Forrest Gump 
+		</Title>
+		<Genre>
+			Romance
+		</Genre>
+		<Director>
+			<Name>
+				<First>
+					  Robert 
+				</First>
+				<Last>
+					 Zemeckis
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			  Paramount Pictures
+		</Studio>
+		<Year>
+			1994
+		</Year>
+	</Movie>
+	
+			
+	
 	<Movie Rating="PG">
-		<Title Runtime="94">
-			Get Out
+		<Title Runtime="124">
+			Star Wars: Episode V - The Empire Strikes Back
 		</Title>
 		<Genre>
-			Animation
+			Fantasy
 		</Genre>
 		<Director>
-			<Name>
+			<Name >
 				<First>
-					Pete
+					   Irvin  
 				</First>
 				<Last>
-					Docter
-				</Last>
-			</Name>
-		</Director>
-		<Director>
-			<Name>
-				<First>
-				</First>
-				<Last>
-					del Carmen
+					 Kershner
 				</Last>
 			</Name>
 		</Director>
 		<Studio>
-			Disney
+			   Lucasfilm
 		</Studio>
 		<Year>
-			2015
+			1980
 		</Year>
 	</Movie>
-
-	<Movie Rating="U">
+	
+			
+	
+	<Movie Rating="PG-13">
+		<Title Runtime="179">
+			The Lord of the Rings: The Two Towers
+		</Title>
+		<Genre>
+			Adventure
+		</Genre>
+		<Director>
+			<Name >
+				<First>
+					   Peter  
+				</First>
+				<Last>
+					 Jackson
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			  New Line Cinema
+		</Studio>
+		<Year>
+			2002
+		</Year>
+	</Movie>
+	
+			
+	
+	<Movie Rating="R">
 		<Title>
-			Get Out
+			The Matrix
+		</Title>
+		<Genre>
+			Romance
+		</Genre>
+		<Director>
+			<Name High-rated-movie="V for Vendetta">
+				<First>
+					   Lana  
+				</First>
+				<Last>
+					 Wachowski
+				</Last>
+			</Name>
+		</Director>
+		<Director>
+			<Name >
+				<First>
+					    Lilly    
+				</First>
+				<Last>
+					 Wachowski
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			   Warner Bros
+		</Studio>
+		<Year>
+			1999
+		</Year>
+	</Movie>
+	
+	
+			
+	
+	<Movie Rating="PG-13">
+		<Title Runtime="121">
+			Guardians of the Galaxy
+		</Title>
+		<Genre>
+			Sci-Fi
+		</Genre>
+		<Director>
+			<Name >
+				<First>
+					    James   
+				</First>
+				<Last>
+					 Gunn
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			   Marvel Studios
+		</Studio>
+		<Year>
+			2014
+		</Year>
+	</Movie>
+	
+	
+	
+			
+	
+	<Movie Rating="G">
+		<Title Runtime="88">
+			The Lion King
 		</Title>
 		<Genre>
 			Animation
 		</Genre>
 		<Director>
-			<Name>
+			<Name >
 				<First>
-					Pete
+					    Roger    
 				</First>
 				<Last>
-					Docter
+					 Allers
 				</Last>
 			</Name>
 		</Director>
 		<Director>
-			<Name High-rated-movie="Toy Story 2">
+			<Name >
 				<First>
-					Ronnie
+					    Rob   
 				</First>
 				<Last>
-					del Carmen
+					 Minkoff
 				</Last>
 			</Name>
 		</Director>
 		<Studio>
-			Disney
+			  New Line Cinema
 		</Studio>
 		<Year>
-			2015
+			2002
 		</Year>
 	</Movie>
-
-	<Movie Rating="U">
-		<Title>
-			Get Out
-		</Title>
-		<Genre>
-			Animation
-		</Genre>
-		<Director>
-			<Name High-rated-movie="Toy Story 3">
-				<First>
-					Ronnie
-				</First>
-				<Last>
-					del Carmen
-				</Last>
-			</Name>
-		</Director>
-		<Studio>
-			Disney
-		</Studio>
-		<Year>
-			2015
-		</Year>
-	</Movie>
+	
+	
 </Movies>
