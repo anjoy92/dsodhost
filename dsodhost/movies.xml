@@ -1,0 +1,96 @@
+<?xml version = "1.0"?>
+<Movies>
+	<Movie Rating="PG">
+		<Title Runtime="94">
+			Get Out
+		</Title>
+		<Genre>
+			Animation
+		</Genre>
+		<Director>
+			<Name>
+				<First>
+					Pete
+				</First>
+				<Last>
+					Docter
+				</Last>
+			</Name>
+		</Director>
+		<Director>
+			<Name>
+				<First>
+				</First>
+				<Last>
+					del Carmen
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			Disney
+		</Studio>
+		<Year>
+			2015
+		</Year>
+	</Movie>
+
+	<Movie Rating="U">
+		<Title>
+			Get Out
+		</Title>
+		<Genre>
+			Animation
+		</Genre>
+		<Director>
+			<Name>
+				<First>
+					Pete
+				</First>
+				<Last>
+					Docter
+				</Last>
+			</Name>
+		</Director>
+		<Director>
+			<Name High-rated-movie="Toy Story 2">
+				<First>
+					Ronnie
+				</First>
+				<Last>
+					del Carmen
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			Disney
+		</Studio>
+		<Year>
+			2015
+		</Year>
+	</Movie>
+
+	<Movie Rating="U">
+		<Title>
+			Get Out
+		</Title>
+		<Genre>
+			Animation
+		</Genre>
+		<Director>
+			<Name High-rated-movie="Toy Story 3">
+				<First>
+					Ronnie
+				</First>
+				<Last>
+					del Carmen
+				</Last>
+			</Name>
+		</Director>
+		<Studio>
+			Disney
+		</Studio>
+		<Year>
+			2015
+		</Year>
+	</Movie>
+</Movies>
